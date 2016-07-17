@@ -2,4 +2,7 @@
 --R: A folder called .git is added to the directory and it will store the
 commits
 ----------------------------------------------------------------------------
-***
+***How is the staging area different from the working directory and the repository? What value do you think it offers?
+--R: It's intermediary directory where you can modify some files and then 
+commit all of them in just one time 
+----------------------------------------------------------------------------
