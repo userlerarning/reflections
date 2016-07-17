@@ -1,0 +1,5 @@
+***What happens when you initialize a repository? Why do you need to do it?
+--R: A folder called .git is added to the directory and it will store the
+commits
+----------------------------------------------------------------------------
+***
